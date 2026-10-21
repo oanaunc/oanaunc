@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Oana Rinaldi — Art, Algorithms &amp; Architecture</title>
+  <desc id="desc">A warm ivory editorial banner with a geometric projection inspired by four-dimensional space.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#dedacf" stroke-width=".7"/></pattern>
+  </defs>
+  <rect width="1200" height="380" rx="18" fill="#f5f2e9"/>
+  <path d="M42 42H1158" stroke="#252c32"/>
+  <circle cx="48" cy="68" r="4" fill="#d95835"/>
+  <text x="62" y="73" fill="#505852" font-family="Arial, sans-serif" font-size="13" letter-spacing="2.4">INDEPENDENT BUILDER · RESEARCHER · ARTIST</text>
+  <text x="44" y="159" fill="#202b30" font-family="Georgia, serif" font-size="68">Oana Rinaldi</text>
+  <text x="47" y="204" fill="#d04d2a" font-family="Arial, sans-serif" font-size="24">Art, Algorithms &amp; Architecture</text>
+  <text x="47" y="255" fill="#374746" font-family="Arial, sans-serif" font-size="19">Building useful tools. Exploring unfamiliar dimensions.</text>
+  <path d="M47 294H667" stroke="#cecabe"/>
+  <text x="47" y="325" fill="#505852" font-family="Arial, sans-serif" font-size="13" letter-spacing="1.5">MACHINE LEARNING / NATIVE APPS / 4D WORLDS</text>
+  <rect x="770" y="88" width="370" height="250" fill="url(#grid)"/>
+  <g fill="none" stroke-linejoin="round" stroke-width="2">
+    <path d="M810 160L974 115 1120 169 953 222Z M810 160V282L953 335 1120 282V169 M953 222V335 M974 115V237L810 282 M974 237L1120 282" stroke="#879792"/>
+    <path d="M876 189L973 162 1057 194 960 225Z M876 189V262L960 293 1057 262V194 M960 225V293 M973 162V235L876 262 M973 235L1057 262" stroke="#d95835"/>
+    <path d="M810 160L876 189 M974 115L973 162 M1120 169L1057 194 M953 222L960 225 M810 282L876 262 M974 237L973 235 M1120 282L1057 262 M953 335L960 293" stroke="#d95835" stroke-opacity=".65"/>
+  </g>
+  <g fill="#d95835"><circle cx="876" cy="189" r="4"/><circle cx="973" cy="162" r="4"/><circle cx="1057" cy="194" r="4"/><circle cx="960" cy="293" r="4"/></g>
+  <text x="1128" y="72" fill="#505852" text-anchor="end" font-family="monospace" font-size="13">x · y · z · w</text>
+</svg>
