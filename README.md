@@ -1,9 +1,9 @@
 <a href="https://oanarinaldi.com"><img src="assets/header.svg" alt="Oana Rinaldi — Art, Algorithms &amp; Architecture. Machine learning, native apps and 4D worlds." width="100%"></a>
 
 <p align="center">
-  <a href="https://oanarinaldi.com"><img src="https://img.shields.io/badge/Explore_my_portfolio-263D3A?style=for-the-badge" alt="Explore my portfolio"></a>
-  <a href="https://apps.apple.com/us/developer/oana-rinaldi/id1709880614"><img src="https://img.shields.io/badge/My_apps-202B30?style=for-the-badge&amp;logo=apple&amp;logoColor=white" alt="My apps on the App Store"></a>
-  <a href="https://artofcoding.blog/"><img src="https://img.shields.io/badge/Art_of_Coding-C64B2B?style=for-the-badge" alt="Art of Coding blog"></a>
+  <a href="https://oanarinaldi.com"><img src="assets/badge-portfolio.svg" alt="Explore my portfolio"></a>
+  <a href="https://apps.apple.com/us/developer/oana-rinaldi/id1709880614"><img src="assets/badge-apps.svg" alt="My apps on the App Store"></a>
+  <a href="https://artofcoding.blog/"><img src="assets/badge-blog.svg" alt="Art of Coding blog"></a>
 </p>
 
 ### Hi, I'm Oana
@@ -64,17 +64,17 @@ I'm a **machine learning engineer, independent app developer, architect and arti
 
 **Machine learning & data**
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&amp;theme=dark" alt="Python, PyTorch, TensorFlow and scikit-learn">
+<img src="assets/skills-ml.svg" alt="Python, PyTorch, TensorFlow and scikit-learn">
 
 Pandas · NumPy · Apache Spark · SQL
 
 **Backend & infrastructure**
 
-<img src="https://skillicons.dev/icons?i=java,spring,kafka,mongodb,docker,kubernetes,mysql&amp;theme=dark" alt="Java, Spring, Kafka, MongoDB, Docker, Kubernetes and MySQL">
+<img src="assets/skills-backend.svg" alt="Java, Spring, Kafka, MongoDB, Docker, Kubernetes and MySQL">
 
 **Apps & interactive experiences**
 
-<img src="https://skillicons.dev/icons?i=swift,cs,cpp,js,threejs,html,css,androidstudio&amp;theme=dark" alt="Swift, C sharp, C plus plus, JavaScript, Three.js, HTML, CSS and Android Studio">
+<img src="assets/skills-apps.svg" alt="Swift, C sharp, C plus plus, JavaScript, Three.js, HTML, CSS and Android Studio">
 
 ### Research, writing & creative work
 

@@ -21,9 +21,11 @@ descriptions and needs no image-generation service.
 - Shields badges: https://shields.io/badges/static-badge
 
 No subscription, API token, paid hosting, tracking counter or scheduled job is required.
-Icons and badges are loaded from their public endpoints; project screenshots and
-the header are stored in this repository. Text names remain available if an icon
-service is temporarily unavailable.
+Icons and badges are saved as local SVG snapshots from their public endpoints,
+so every profile image is served by GitHub. This avoids broken third-party image
+proxy requests and requires no running service. Skill Icons' MIT license is
+included in `assets/SKILL-ICONS-LICENSE`. Attribution: Skill Icons by Thijs
+(tandpfun) and contributors; badges generated with Shields.io.
 
 ## Editing
 
